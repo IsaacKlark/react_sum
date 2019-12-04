@@ -5,7 +5,7 @@ function App() {
   const b = 7;
 
   return (
-    'Put your JSX here'
+<div>sum of {a} and {b} is {a + b}</div>
   );
 }
 
